@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">I’m web developer, I have 2 + years of experience in web developing , working on different projects remotly and on site using the latest technologies, and i focus on productive, professional and fast preformance websites ensuring seamless user experiences and optimized performance The frame fits all devices.</p>
+<p align="left">Front-End Developer with 2 years of experience building responsive, user-centric web applications. Skilled in
+creating modern, interactive interfaces. Experienced in developing large-scale dashboards and management
+systems handling millions of records. Strong focus on clean code, performance optimization, and delivering
+seamless user experiences.</p>
 
 ###
 
