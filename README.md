@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left">Front-End Developer with 2 years of experience building responsive, user-centric web applications. Skilled in
-creating modern, interactive interfaces. Experienced in developing large-scale dashboards and management
-systems handling millions of records. Strong focus on clean code, performance optimization, and delivering
-seamless user experiences.</p>
+<p align="left">Full Stack Developer building end-to-end web applications from responsive front-end interfaces to scalable back-end systems.
+Proven expertise delivering large-scale platforms managing millions of records, including government dashboards, SaaS
+applications, and real-time systems. Track record of shipping high-performance solutions that drive business impact across
+consumer and enterprise markets.</p>
 
 ###
 
