@@ -88,6 +88,22 @@ building things a team can maintain and grow.</p>
 
 ###
 
+<h2 align="left">Find me</h2>
+
+###
+
+<div align="left">
+  <a href="https://cv-amoree.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="portfolio"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/amer-abdulkareem/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin"  />
+  </a>
+</div>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
