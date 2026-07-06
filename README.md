@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amer Abdulkareem and I'm a Swftware FullStack Developer, from Iraq</p>
+<p align="left">My name is Amir Abdulkarim Jabbar, a Front-end Specialized Full Stack Developer from Iraq.</p>
 
 ###
 
@@ -10,10 +10,17 @@
 
 ###
 
-<p align="left">Full Stack Developer building end-to-end web applications from responsive front-end interfaces to scalable back-end systems.
-Proven expertise delivering large-scale platforms managing millions of records, including government dashboards, SaaS
-applications, and real-time systems. Track record of shipping high-performance solutions that drive business impact across
-consumer and enterprise markets.</p>
+<p align="left">Front-end-focused Full Stack Developer with 3 years of experience turning ideas and designs into clean, fast,
+and dependable web products. I've helped ship large-scale government dashboards, SaaS products, and real-time systems
+used by hundreds of thousands of people — from a control panel managing 1.5M+ student records to a multi-tenant,
+localized live-chat and ticketing platform embedded in 10+ production apps. I care about performance, clean UI, and
+building things a team can maintain and grow.</p>
+
+###
+
+<p align="left">🔭 Currently building at <b>StarSphere</b> with React &amp; Next.js<br/>
+🌍 Localizing products in Arabic, English, Central Kurdish (Sorani), and Northern Kurdish (Kurmanji)<br/>
+⚡ Recent focus: performance optimization (40% faster loads via code-splitting &amp; lazy loading)</p>
 
 ###
 
@@ -36,11 +43,13 @@ consumer and enterprise markets.</p>
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=black&style=for-the-badge" height="40" alt="nuxtjs logo"  />
+  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" height="40" alt="framer motion logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" height="40" alt="shadcn logo"  />
 </div>
 
 ###
@@ -48,16 +57,34 @@ consumer and enterprise markets.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" height="40" alt="sequelize logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="40" alt="prisma logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<h2 align="left">Featured work</h2>
+
+###
+
+<p align="left">
+🏛️ <b>Government dashboards</b> — control panels for Iraq's Ministry of Higher Education (1.5M+ student/project records, 50+ roles) and the Entrepreneurship Directorate (500k+ users, 15+ permission levels)<br/>
+📂 <b>Document archive system</b> — Baghdad Chamber of Commerce, 85,000+ importer/exporter records with fast search, dual manager/employee panels<br/>
+💬 <b>Embedded SaaS live-chat &amp; ticketing platform</b> — WebSocket real-time chat, bot self-service, fully themeable, localized in 4 languages, integrated into 10+ production apps<br/>
+🗳️ <b>Electronic voting dashboard</b> — real-time results tracking and reporting at tens-of-thousands-of-voters scale<br/>
+🏥 <b>Hospital management system</b> — real-time room/equipment/inventory tracking across 200+ rooms
+</p>
 
 ###
 
