@@ -74,6 +74,63 @@ building things a team can maintain and grow.</p>
 
 ###
 
+<h2 align="left">Claude memory system</h2>
+
+###
+
+<p align="left">I run a persistent, file-based memory system for my AI coding assistant (Claude Code) — it tracks context across every repo I touch so I never re-explain a project from scratch.</p>
+
+###
+
+| Type | Count |
+|---|---|
+| Projects tracked | 24 |
+| Feedback / working-style rules | 14 |
+| External references | 4 |
+| User profile notes | 2 |
+| **Total memory entries** | **44** |
+
+###
+
+<details>
+<summary><b>Projects tracked (click to expand)</b></summary>
+<br/>
+
+- resume-web — Next.js 16 portfolio site
+- dynamic-resume-front / dynamic-resume-api — resume platform (Next.js + NestJS/Prisma)
+- resume-peper — Typst multi-variant resume
+- epms-web — EPMS project-management SPA (Vite + React)
+- archiving_system — document archiving admin app (React/Vite)
+- Al Kafaat Hospital System — hospital inventory app (React/Vite)
+- HarmonyHR — HR attendance/salary/vacation app (NestJS + Prisma)
+- otp — auth service with SendGrid OTP (NestJS + Kysely)
+- Tajer-Vue — Baghdad Chamber of Commerce trader portal (Vue 3)
+- riyada-dashboard — StartSphere admin dashboard (Vite + React)
+- Karwatt-landing-page / Riyada-landing-page-new — StartSphere marketing sites (Next.js)
+- markitdown-web — MS MarkItDown + FastAPI web UI, deployed on HF Spaces
+- pdf2md — PDF-to-Markdown converter (Next.js + shadcn)
+- bot_telegram — Telegram video-downloader bot (Python, yt-dlp/gallery-dl)
+- second-brain — personal knowledge vault with auto-commit and 33 synced skills
+- love, Nashwan, test-gaps, ts-scratch — smaller/scratch projects
+
+</details>
+
+###
+
+<h3 align="left">Recent activity</h3>
+
+###
+
+| Date | Update |
+|---|---|
+| 2026-08-13 | markitdown-web deploy notes logged |
+| 2026-08-13 | feedback: lead with concept before steps in deploy/architecture explanations |
+| 2026-08-12 | feedback: personal goals routed to daily-brief scans |
+| 2026-08-10 | second-brain vault memory added |
+| 2026-08-04 | arXiv MCP server reference added |
+
+###
+
 <h2 align="left">Featured work</h2>
 
 ###
