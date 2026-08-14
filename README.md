@@ -6,6 +6,16 @@
 
 ###
 
+<p align="left">
+📍 Based in Iraq<br/>
+💼 3+ years professional experience<br/>
+🗣️ Arabic (native), English (professional), Central Kurdish / Sorani, Northern Kurdish / Kurmanji<br/>
+📫 <a href="mailto:amir.abdulkarim.jabbar@gmail.com">amir.abdulkarim.jabbar@gmail.com</a><br/>
+🔗 <a href="https://cv-amir.vercel.app/" target="_blank">cv-amir.vercel.app</a>
+</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -82,6 +92,20 @@ building things a team can maintain and grow.</p>
 
 ###
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Claude Code-D97757?logo=claude&logoColor=white&style=for-the-badge" height="40" alt="claude code logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white&style=for-the-badge" height="40" alt="anthropic logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Model Context Protocol-000000?logo=modelcontextprotocol&logoColor=white&style=for-the-badge" height="40" alt="mcp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+</div>
+
+###
+
 | Type | Count |
 |---|---|
 | Projects tracked | 24 |
@@ -117,20 +141,6 @@ building things a team can maintain and grow.</p>
 
 ###
 
-<h3 align="left">Recent activity</h3>
-
-###
-
-| Date | Update |
-|---|---|
-| 2026-08-13 | markitdown-web deploy notes logged |
-| 2026-08-13 | feedback: lead with concept before steps in deploy/architecture explanations |
-| 2026-08-12 | feedback: personal goals routed to daily-brief scans |
-| 2026-08-10 | second-brain vault memory added |
-| 2026-08-04 | arXiv MCP server reference added |
-
-###
-
 <h2 align="left">Featured work</h2>
 
 ###
@@ -150,12 +160,20 @@ building things a team can maintain and grow.</p>
 ###
 
 <div align="left">
-  <a href="https://cv-amoree.vercel.app/" target="_blank">
+  <a href="https://cv-amir.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="portfolio"  />
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/amer-abdulkareem/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin"  />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/amoree-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github"  />
+  </a>
+  <img width="12" />
+  <a href="mailto:amir.abdulkarim.jabbar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="email"  />
   </a>
 </div>
 
