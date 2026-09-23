@@ -38,7 +38,7 @@ I build government dashboards, enterprise systems and SaaS products that serve *
 ## Experience
 
 <details>
-<summary><b>Front-end Developer</b> · Sep 2025 – Present</summary>
+<summary><b>Front-end Developer</b> · StarSphere · Sep 2025 – Present</summary>
 <br/>
 
 - Build responsive web applications that work smoothly across desktop and mobile
@@ -49,7 +49,7 @@ I build government dashboards, enterprise systems and SaaS products that serve *
 </details>
 
 <details>
-<summary><b>Front-end Developer</b> · Jul 2025 – Aug 2025</summary>
+<summary><b>Front-end Developer</b> · LightRing Technology · Jul 2025 – Aug 2025</summary>
 <br/>
 
 - Built reusable React components for internal dashboard systems
@@ -60,7 +60,7 @@ I build government dashboards, enterprise systems and SaaS products that serve *
 </details>
 
 <details>
-<summary><b>Front-end Developer</b> · Feb 2025 – Jul 2025</summary>
+<summary><b>Front-end Developer</b> · The Golden Castle · Feb 2025 – Jul 2025</summary>
 <br/>
 
 - Built interactive web interfaces focused on clear, practical user flows
