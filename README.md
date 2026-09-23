@@ -1,186 +1,234 @@
-<h1 align="left">Hey 👋 What's up</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Ameer%20Abdulkareem%20Jabbar%20Lami&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Front-end-Focused%20Full%20Stack%20Developer&descSize=16&descAlignY=58" width="100%" alt="Ameer Abdulkareem Jabbar Lami" />
 
-<p align="left">My name is Amir Abdulkarim Jabbar, a Front-end Specialized Full Stack Developer from Iraq.</p>
+<a href="https://github.com/amoree-code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Government+%26+enterprise+dashboards+at+scale;RTL-first+i18n+%E2%80%94+Arabic%2C+English%2C+Kurdish;Real-time+WebSocket+products;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS" alt="Typing SVG" />
+</a>
 
-###
-
-<p align="left">
-📍 Based in Iraq<br/>
-💼 3+ years professional experience<br/>
-🗣️ Arabic (native), English (professional), Central Kurdish / Sorani, Northern Kurdish / Kurmanji<br/>
-📫 <a href="mailto:amir.abdulkarim.jabbar@gmail.com">amir.abdulkarim.jabbar@gmail.com</a><br/>
-🔗 <a href="https://cv-amir.vercel.app/" target="_blank">cv-amir.vercel.app</a>
+<p>
+  <a href="https://cv-amir.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/amer-abdulkareem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amir.abdulkarim.jabbar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/9647777665783"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/dd1f0_"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://drive.google.com/file/d/1AVBHYs8E43Jv3vrNLiU7tm_bJugXFW36/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
-###
+<img src="https://komarev.com/ghpvc/?username=amoree-code&style=flat-square&color=2563EB&label=Profile+views" alt="Profile views" />
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Front-end-focused Full Stack Developer with 3 years of experience turning ideas and designs into clean, fast,
-and dependable web products. I've helped ship large-scale government dashboards, SaaS products, and real-time systems
-used by hundreds of thousands of people — from a control panel managing 1.5M+ student records to a multi-tenant,
-localized live-chat and ticketing platform embedded in 10+ production apps. I care about performance, clean UI, and
-building things a team can maintain and grow.</p>
-
-###
-
-<p align="left">🔭 Currently building at <b>StarSphere</b> with React &amp; Next.js<br/>
-🌍 Localizing products in Arabic, English, Central Kurdish (Sorani), and Northern Kurdish (Kurmanji)<br/>
-⚡ Recent focus: performance optimization (40% faster loads via code-splitting &amp; lazy loading)</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Framer Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" height="40" alt="framer motion logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" height="40" alt="shadcn logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-</div>
+## About me
 
-###
+I'm **Ameer Abdulkareem Jabbar Lami**, a front-end-focused full stack developer from **Baghdad, Iraq** with **2+ years** of experience turning product ideas and designs into reliable web applications.
 
-<h2 align="left">Claude memory system</h2>
+I build government dashboards, enterprise systems and SaaS products that serve **1.5M+ records**, **500K+ users**, and integrations across **10+ production platforms** — with a particular focus on **real-time** features and **multilingual, RTL-first** interfaces.
 
-###
+- 🔭 Front-end Developer at **StarSphere** — React 19, Next.js, TanStack, shadcn/ui
+- 🌍 Shipping products in Arabic, English, Central Kurdish (Sorani) and Northern Kurdish (Kurmanji)
+- ⚡ Cut application load time by **40%** through code splitting, lazy loading and hot-path fixes
+- 🤖 Building **[Atlas](https://github.com/amoree-code/atlas)** — a local-first control layer for AI coding agents
+- 🗣️ Arabic (native) · English (working proficiency)
 
-<p align="left">I run a persistent, file-based memory system for my AI coding assistant (Claude Code) — it tracks context across every repo I touch so I never re-explain a project from scratch.</p>
+---
 
-###
+## Experience
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Claude Code-D97757?logo=claude&logoColor=white&style=for-the-badge" height="40" alt="claude code logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white&style=for-the-badge" height="40" alt="anthropic logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Model Context Protocol-000000?logo=modelcontextprotocol&logoColor=white&style=for-the-badge" height="40" alt="mcp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-</div>
+| Role | Company | Period | Highlights |
+|---|---|---|---|
+| **Front-end Developer** | StarSphere | Sep 2025 – Present | Responsive web apps from design to pixel-accurate UI · **40% faster** load times · cross-browser consistency |
+| **Front-end Developer** | LightRing Technology | Jul 2025 – Aug 2025 | Reusable React components for internal dashboards · state and API integration · **5+ projects** under tight deadlines |
+| **Front-end Developer** | The Golden Castle | Feb 2025 – Jul 2025 | Interactive, responsive interfaces · performance and SEO work · reviewed code and **mentored 3 juniors** |
 
-###
+---
 
-| Type | Count |
-|---|---|
-| Projects tracked | 24 |
-| Feedback / working-style rules | 14 |
-| External references | 4 |
-| User profile notes | 2 |
-| **Total memory entries** | **44** |
+## Featured work
 
-###
+> Production systems built for clients and employers. Source is private; details and scale are from delivered work.
 
-<details>
-<summary><b>Projects tracked (click to expand)</b></summary>
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Technical Support System</h3>
+      <sub>Embedded SaaS live chat &amp; ticketing</sub>
+      <ul>
+        <li>Integrated into <b>10+ production platforms</b></li>
+        <li>WebSocket real-time chat with live agents, decision-tree bot self-service</li>
+        <li>Ticketing for hundreds of tickets a day</li>
+        <li>Localized in 4 languages, fully themeable Material Design 3 UI</li>
+        <li>Stateless architecture, API-key and token auth</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Dashboard Entrepreneurship</h3>
+      <sub>Ministry of Higher Education</sub>
+      <ul>
+        <li>Control panel over <b>1.5M+</b> student and project records</li>
+        <li>Role-based access across <b>50+ roles</b></li>
+        <li>Streamlined project creation and review workflow</li>
+        <li>Messaging between students and authorities — thousands of messages a day</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Dashboard Riyada</h3>
+      <sub>Entrepreneurship Directorate</sub>
+      <ul>
+        <li>Admin panel for <b>500,000+ users</b></li>
+        <li>Dynamic permissions over <b>15+ levels</b></li>
+        <li>Landing page with <b>95+ Lighthouse</b> and <b>+120%</b> organic traffic</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 Archive Documents</h3>
+      <sub>Baghdad Chamber of Commerce</sub>
+      <ul>
+        <li><b>85,000+</b> importer/exporter records with fast search</li>
+        <li>Dual manager/employee panels, <b>8 permission tiers</b></li>
+        <li>Landing page contributing to <b>40% adoption</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital System</h3>
+      <sub>Room &amp; inventory management</sub>
+      <ul>
+        <li>Room scanning and inventory tracking across <b>200+ rooms</b></li>
+        <li>Real-time room, equipment and item availability</li>
+        <li>Role-based access for staff across <b>15+ departments</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗳️ Electronic Voting Dashboard</h3>
+      <sub>Election results &amp; reporting</sub>
+      <ul>
+        <li>Tens of thousands of voters</li>
+        <li>Real-time results tracking, <b>3 admin levels</b></li>
+        <li><b>15+</b> customizable reports</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- resume-web — Next.js 16 portfolio site
-- dynamic-resume-front / dynamic-resume-api — resume platform (Next.js + NestJS/Prisma)
-- resume-peper — Typst multi-variant resume
-- epms-web — EPMS project-management SPA (Vite + React)
-- archiving_system — document archiving admin app (React/Vite)
-- Al Kafaat Hospital System — hospital inventory app (React/Vite)
-- HarmonyHR — HR attendance/salary/vacation app (NestJS + Prisma)
-- otp — auth service with SendGrid OTP (NestJS + Kysely)
-- Tajer-Vue — Baghdad Chamber of Commerce trader portal (Vue 3)
-- riyada-dashboard — StartSphere admin dashboard (Vite + React)
-- Karwatt-landing-page / Riyada-landing-page-new — StartSphere marketing sites (Next.js)
-- markitdown-web — MS MarkItDown + FastAPI web UI, deployed on HF Spaces
-- pdf2md — PDF-to-Markdown converter (Next.js + shadcn)
-- bot_telegram — Telegram video-downloader bot (Python, yt-dlp/gallery-dl)
-- second-brain — personal knowledge vault with auto-commit and 33 synced skills
-- love, Nashwan, test-gaps, ts-scratch — smaller/scratch projects
+---
 
-</details>
+## Open-source projects
 
-###
+| Project | What it is | Stack |
+|---|---|---|
+| [**Atlas**](https://github.com/amoree-code/atlas) | Local-first control layer for AI coding agents — shared setup, client adapters, scoped execution, governance and evidence | TypeScript · Node.js |
+| [**SOLID**](https://github.com/amoree-code/SOLID) | Independent production templates: React dashboard, NestJS API and Next.js portfolio — each with its own tests, Docker build and CI | React · TanStack · NestJS · Prisma · Next.js |
+| [**Template-Clean-Architecture**](https://github.com/amoree-code/Template-Clean-Architecture) | Scalable Clean Architecture template for decoupled, testable apps — plus [NestJS](https://github.com/amoree-code/nest.js-startup) and [TanStack Start](https://github.com/amoree-code/tanstack-startup) variants | TypeScript |
+| [**HarmonyHR**](https://github.com/amoree-code/HarmonyHR) | HR back end for attendance, salaries and vacations | NestJS · Prisma · PostgreSQL |
+| [**Dynamic Resume**](https://github.com/amoree-code/Dynamic-Resume-Front) | Resume platform — [Next.js front end](https://github.com/amoree-code/Dynamic-Resume-Front) and [NestJS API](https://github.com/amoree-code/Dynamic-Resume-API) | Next.js · NestJS · Prisma |
+| [**Hospital System — Al Kafaat**](https://github.com/amoree-code/Hospital-System-Kafaat) · [live](https://hospital-system-kafaat.vercel.app) | QR-based hospital inventory tracking | React · Vite · React Query |
+| [**resume-web**](https://github.com/amoree-code/resume-web) · [live](https://cv-amir.vercel.app) | Personal portfolio with 3D and motion | Next.js · three.js · GSAP · Framer Motion |
+| [**resume-peper**](https://github.com/amoree-code/resume-peper) | Multi-variant resume written in Typst, auto-published to Google Drive | Typst · GitHub Actions |
+| [**otp**](https://github.com/amoree-code/otp) | Authentication service with email OTP | NestJS · Kysely |
+| [**markitdown-web**](https://github.com/amoree-code/markitdown-web) | Web UI for Microsoft MarkItDown, deployed on Hugging Face Spaces | Python · FastAPI · Docker |
 
-<h2 align="left">Featured work</h2>
+---
 
-###
+## Tech stack
 
-<p align="left">
-🏛️ <b>Government dashboards</b> — control panels for Iraq's Ministry of Higher Education (1.5M+ student/project records, 50+ roles) and the Entrepreneurship Directorate (500k+ users, 15+ permission levels)<br/>
-📂 <b>Document archive system</b> — Baghdad Chamber of Commerce, 85,000+ importer/exporter records with fast search, dual manager/employee panels<br/>
-💬 <b>Embedded SaaS live-chat &amp; ticketing platform</b> — WebSocket real-time chat, bot self-service, fully themeable, localized in 4 languages, integrated into 10+ production apps<br/>
-🗳️ <b>Electronic voting dashboard</b> — real-time results tracking and reporting at tens-of-thousands-of-voters scale<br/>
-🏥 <b>Hospital management system</b> — real-time room/equipment/inventory tracking across 200+ rooms
+**Front end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,tailwind,vite&theme=dark" alt="Front-end stack" />
 </p>
 
-###
+<p>
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" alt="i18next" />
+</p>
 
-<h2 align="left">Find me</h2>
+**Back end &amp; data**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mysql,mongodb,python&theme=dark" alt="Back-end stack" />
+</p>
 
-<div align="left">
-  <a href="https://cv-amir.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="portfolio"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/amer-abdulkareem/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin"  />
-  </a>
-  <img width="12" />
-  <a href="https://github.com/amoree-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github"  />
-  </a>
-  <img width="12" />
-  <a href="mailto:amir.abdulkarim.jabbar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="email"  />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,vscode&theme=dark" alt="Tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Apidog-F44A6D?style=flat-square&logoColor=white" alt="Apidog" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+## GitHub activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoree-code&theme=github_dark" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoree-code&theme=github" alt="profile-details" />
+  </picture>
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amoree-code&theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amoree-code&theme=github" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amoree-code&theme=github_dark&utcOffset=3" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amoree-code&theme=github&utcOffset=3" alt="productive-time" />
+  </picture>
 </div>
 
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amoree-code&theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amoree-code&theme=github" alt="repos-per-language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amoree-code&theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amoree-code&theme=github" alt="most-commit-language" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amoree-code&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=amoree-code&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amoree-code/amoree-code/output/github-contribution-grid-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/amoree-code/amoree-code/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaboration on dashboards, real-time products and RTL/i18n work.**
+Reach me at [amir.abdulkarim.jabbar@gmail.com](mailto:amir.abdulkarim.jabbar@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/amer-abdulkareem/).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,100:0F172A" width="100%" alt="" />
+
+</div>
