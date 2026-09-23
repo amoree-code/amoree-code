@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Ameer%20Abdulkareem%20Jabbar%20Lami&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Front-end-Focused%20Full%20Stack%20Developer&descSize=16&descAlignY=58" width="100%" alt="Ameer Abdulkareem Jabbar Lami" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB" width="100%" alt="Ameer Abdulkareem Jabbar Lami" />
 
 <a href="https://github.com/amoree-code">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Government+%26+enterprise+dashboards+at+scale;RTL-first+i18n+%E2%80%94+Arabic%2C+English%2C+Kurdish;Real-time+WebSocket+products;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS" alt="Typing SVG" />
@@ -27,7 +27,7 @@ I'm **Ameer Abdulkareem Jabbar Lami**, a front-end-focused full stack developer 
 
 I build government dashboards, enterprise systems and SaaS products that serve **1.5M+ records**, **500K+ users**, and integrations across **10+ production platforms** — with a particular focus on **real-time** features and **multilingual, RTL-first** interfaces.
 
-- 🔭 Front-end Developer at **StarSphere** — React 19, Next.js, TanStack, shadcn/ui
+- 🔭 Front-end developer working with React 19, Next.js, TanStack, shadcn/ui
 - 🌍 Shipping products in Arabic, English, Central Kurdish (Sorani) and Northern Kurdish (Kurmanji)
 - ⚡ Cut application load time by **40%** through code splitting, lazy loading and hot-path fixes
 - 🤖 Building **[Atlas](https://github.com/amoree-code/atlas)** — a local-first control layer for AI coding agents
@@ -37,11 +37,38 @@ I build government dashboards, enterprise systems and SaaS products that serve *
 
 ## Experience
 
-| Role | Company | Period | Highlights |
-|---|---|---|---|
-| **Front-end Developer** | StarSphere | Sep 2025 – Present | Responsive web apps from design to pixel-accurate UI · **40% faster** load times · cross-browser consistency |
-| **Front-end Developer** | LightRing Technology | Jul 2025 – Aug 2025 | Reusable React components for internal dashboards · state and API integration · **5+ projects** under tight deadlines |
-| **Front-end Developer** | The Golden Castle | Feb 2025 – Jul 2025 | Interactive, responsive interfaces · performance and SEO work · reviewed code and **mentored 3 juniors** |
+<details>
+<summary><b>Front-end Developer</b> · Sep 2025 – Present</summary>
+<br/>
+
+- Build responsive web applications that work smoothly across desktop and mobile
+- Turn designs into reusable, pixel-accurate UI in close collaboration with designers
+- Improved application load time by **40%** through code splitting, lazy loading and fixing slow code paths
+- Keep features consistent across browsers and screen sizes
+
+</details>
+
+<details>
+<summary><b>Front-end Developer</b> · Jul 2025 – Aug 2025</summary>
+<br/>
+
+- Built reusable React components for internal dashboard systems
+- Connected front-end screens to back-end services and managed shared application state
+- Worked with back-end developers to keep data flow predictable and reliable
+- Delivered **5+ projects** under tight deadlines while keeping the code maintainable
+
+</details>
+
+<details>
+<summary><b>Front-end Developer</b> · Feb 2025 – Jul 2025</summary>
+<br/>
+
+- Built interactive web interfaces focused on clear, practical user flows
+- Created responsive layouts from mobile screens to large monitors
+- Reviewed code and mentored **3 junior developers**
+- Improved performance and SEO by cleaning up front-end code and page structure
+
+</details>
 
 ---
 
@@ -49,88 +76,165 @@ I build government dashboards, enterprise systems and SaaS products that serve *
 
 > Production systems built for clients and employers. Source is private; details and scale are from delivered work.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💬 Technical Support System</h3>
-      <sub>Embedded SaaS live chat &amp; ticketing</sub>
-      <ul>
-        <li>Integrated into <b>10+ production platforms</b></li>
-        <li>WebSocket real-time chat with live agents, decision-tree bot self-service</li>
-        <li>Ticketing for hundreds of tickets a day</li>
-        <li>Localized in 4 languages, fully themeable Material Design 3 UI</li>
-        <li>Stateless architecture, API-key and token auth</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ Dashboard Entrepreneurship</h3>
-      <sub>Ministry of Higher Education</sub>
-      <ul>
-        <li>Control panel over <b>1.5M+</b> student and project records</li>
-        <li>Role-based access across <b>50+ roles</b></li>
-        <li>Streamlined project creation and review workflow</li>
-        <li>Messaging between students and authorities — thousands of messages a day</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Dashboard Riyada</h3>
-      <sub>Entrepreneurship Directorate</sub>
-      <ul>
-        <li>Admin panel for <b>500,000+ users</b></li>
-        <li>Dynamic permissions over <b>15+ levels</b></li>
-        <li>Landing page with <b>95+ Lighthouse</b> and <b>+120%</b> organic traffic</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📂 Archive Documents</h3>
-      <sub>Baghdad Chamber of Commerce</sub>
-      <ul>
-        <li><b>85,000+</b> importer/exporter records with fast search</li>
-        <li>Dual manager/employee panels, <b>8 permission tiers</b></li>
-        <li>Landing page contributing to <b>40% adoption</b></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Hospital System</h3>
-      <sub>Room &amp; inventory management</sub>
-      <ul>
-        <li>Room scanning and inventory tracking across <b>200+ rooms</b></li>
-        <li>Real-time room, equipment and item availability</li>
-        <li>Role-based access for staff across <b>15+ departments</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗳️ Electronic Voting Dashboard</h3>
-      <sub>Election results &amp; reporting</sub>
-      <ul>
-        <li>Tens of thousands of voters</li>
-        <li>Real-time results tracking, <b>3 admin levels</b></li>
-        <li><b>15+</b> customizable reports</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<details>
+<summary>💬 <b>Technical Support System</b> — embedded SaaS live chat &amp; ticketing</summary>
+<br/>
+
+- Sold as an embedded live-chat solution, integrated into **10+ production platforms**
+- WebSocket real-time chat between users and live agents
+- Decision-tree bot self-service to deflect repetitive requests
+- Ticketing system handling hundreds of tickets a day
+- Localized in Arabic, English, Sorani and Kurmanji; fully themeable Material Design 3 UI
+- Stateless architecture where the host app owns the data; API-key and token auth
+
+</details>
+
+<details>
+<summary>🏛️ <b>Dashboard Entrepreneurship</b> — Ministry of Higher Education</summary>
+<br/>
+
+- Control panel managing **1.5M+** student and project records
+- Role-based access control across **50+ roles**
+- Streamlined project creation and review workflow
+- Messaging between students and authorities — thousands of messages a day
+
+</details>
+
+<details>
+<summary>🚀 <b>Dashboard Riyada</b> — Entrepreneurship Directorate</summary>
+<br/>
+
+- Admin panel managing data for **500,000+ users**
+- Fine-grained dynamic permissions across **15+ levels**
+- Faster data handling and queries at scale
+- Landing page with a **95+ Lighthouse** score and **+120%** organic traffic
+
+</details>
+
+<details>
+<summary>📂 <b>Archive Documents</b> — Baghdad Chamber of Commerce</summary>
+<br/>
+
+- Archive of **85,000+** importer and exporter records with fast search
+- Dual manager/employee panels to speed up data entry
+- Role-based document access across **8 permission tiers**
+- Landing page contributing to **40% adoption**
+
+</details>
+
+<details>
+<summary>🏥 <b>Hospital System</b> — room &amp; inventory management</summary>
+<br/>
+
+- Room scanning and inventory tracking across **200+ rooms**
+- Real-time display of rooms, equipment and item availability
+- Role-based access for medical staff across **15+ departments**
+
+</details>
+
+<details>
+<summary>🗳️ <b>Electronic Voting Dashboard</b> — election results &amp; reporting</summary>
+<br/>
+
+- Built for tens of thousands of voters
+- Real-time results tracking with **3 admin levels**
+- **15+** customizable reports
+
+</details>
 
 ---
 
 ## Open-source projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Atlas**](https://github.com/amoree-code/atlas) | Local-first control layer for AI coding agents — shared setup, client adapters, scoped execution, governance and evidence | TypeScript · Node.js |
-| [**SOLID**](https://github.com/amoree-code/SOLID) | Independent production templates: React dashboard, NestJS API and Next.js portfolio — each with its own tests, Docker build and CI | React · TanStack · NestJS · Prisma · Next.js |
-| [**Template-Clean-Architecture**](https://github.com/amoree-code/Template-Clean-Architecture) | Scalable Clean Architecture template for decoupled, testable apps — plus [NestJS](https://github.com/amoree-code/nest.js-startup) and [TanStack Start](https://github.com/amoree-code/tanstack-startup) variants | TypeScript |
-| [**HarmonyHR**](https://github.com/amoree-code/HarmonyHR) | HR back end for attendance, salaries and vacations | NestJS · Prisma · PostgreSQL |
-| [**Dynamic Resume**](https://github.com/amoree-code/Dynamic-Resume-Front) | Resume platform — [Next.js front end](https://github.com/amoree-code/Dynamic-Resume-Front) and [NestJS API](https://github.com/amoree-code/Dynamic-Resume-API) | Next.js · NestJS · Prisma |
-| [**Hospital System — Al Kafaat**](https://github.com/amoree-code/Hospital-System-Kafaat) · [live](https://hospital-system-kafaat.vercel.app) | QR-based hospital inventory tracking | React · Vite · React Query |
-| [**resume-web**](https://github.com/amoree-code/resume-web) · [live](https://cv-amir.vercel.app) | Personal portfolio with 3D and motion | Next.js · three.js · GSAP · Framer Motion |
-| [**resume-peper**](https://github.com/amoree-code/resume-peper) | Multi-variant resume written in Typst, auto-published to Google Drive | Typst · GitHub Actions |
-| [**otp**](https://github.com/amoree-code/otp) | Authentication service with email OTP | NestJS · Kysely |
-| [**markitdown-web**](https://github.com/amoree-code/markitdown-web) | Web UI for Microsoft MarkItDown, deployed on Hugging Face Spaces | Python · FastAPI · Docker |
+<details>
+<summary>🤖 <a href="https://github.com/amoree-code/atlas"><b>Atlas</b></a> — local-first control layer for AI coding agents</summary>
+<br/>
+
+Shared setup, client adapters, safe scoped execution, governance and evidence for Claude, Codex, Gemini and more.<br/>
+<b>Stack:</b> TypeScript · Node.js · Docker
+
+</details>
+
+<details>
+<summary>🧱 <a href="https://github.com/amoree-code/SOLID"><b>SOLID</b></a> — independent production templates</summary>
+<br/>
+
+A React dashboard, a NestJS API and a Next.js portfolio. Each has its own tests, Docker build and CI.<br/>
+<b>Stack:</b> React · TanStack · shadcn/ui · NestJS · Prisma · Next.js
+
+</details>
+
+<details>
+<summary>🏗️ <a href="https://github.com/amoree-code/Template-Clean-Architecture"><b>Template-Clean-Architecture</b></a> — scalable Clean Architecture template</summary>
+<br/>
+
+A decoupled, testable foundation, with <a href="https://github.com/amoree-code/nest.js-startup">NestJS</a> and <a href="https://github.com/amoree-code/tanstack-startup">TanStack Start</a> variants.<br/>
+<b>Stack:</b> TypeScript
+
+</details>
+
+<details>
+<summary>👥 <a href="https://github.com/amoree-code/HarmonyHR"><b>HarmonyHR</b></a> — HR back end</summary>
+<br/>
+
+Attendance, salaries and vacations.<br/>
+<b>Stack:</b> NestJS · Prisma · PostgreSQL
+
+</details>
+
+<details>
+<summary>📄 <a href="https://github.com/amoree-code/Dynamic-Resume-Front"><b>Dynamic Resume</b></a> — resume platform</summary>
+<br/>
+
+<a href="https://github.com/amoree-code/Dynamic-Resume-Front">Next.js front end</a> and <a href="https://github.com/amoree-code/Dynamic-Resume-API">NestJS API</a>.<br/>
+<b>Stack:</b> Next.js · NestJS · Prisma
+
+</details>
+
+<details>
+<summary>🏥 <a href="https://github.com/amoree-code/Hospital-System-Kafaat"><b>Hospital System — Al Kafaat</b></a> — QR inventory tracking</summary>
+<br/>
+
+QR-based hospital inventory tracking. <a href="https://hospital-system-kafaat.vercel.app">Live demo</a><br/>
+<b>Stack:</b> React · Vite · React Query
+
+</details>
+
+<details>
+<summary>🌐 <a href="https://github.com/amoree-code/resume-web"><b>resume-web</b></a> — personal portfolio</summary>
+<br/>
+
+Portfolio with 3D and motion. <a href="https://cv-amir.vercel.app">Live site</a><br/>
+<b>Stack:</b> Next.js · three.js · GSAP · Framer Motion
+
+</details>
+
+<details>
+<summary>📝 <a href="https://github.com/amoree-code/resume-peper"><b>resume-peper</b></a> — resume as code</summary>
+<br/>
+
+Multi-variant resume written in Typst, auto-published to Google Drive.<br/>
+<b>Stack:</b> Typst · GitHub Actions
+
+</details>
+
+<details>
+<summary>🔐 <a href="https://github.com/amoree-code/otp"><b>otp</b></a> — authentication service</summary>
+<br/>
+
+Email OTP authentication.<br/>
+<b>Stack:</b> NestJS · Kysely
+
+</details>
+
+<details>
+<summary>🔄 <a href="https://github.com/amoree-code/markitdown-web"><b>markitdown-web</b></a> — document-to-Markdown web UI</summary>
+<br/>
+
+Web UI for Microsoft MarkItDown, deployed on Hugging Face Spaces.<br/>
+<b>Stack:</b> Python · FastAPI · Docker
+
+</details>
 
 ---
 
@@ -223,11 +327,6 @@ I build government dashboards, enterprise systems and SaaS products that serve *
 </div>
 
 ---
-
-<div align="center">
-
-**Open to collaboration on dashboards, real-time products and RTL/i18n work.**
-Reach me at [amir.abdulkarim.jabbar@gmail.com](mailto:amir.abdulkarim.jabbar@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/amer-abdulkareem/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,100:0F172A" width="100%" alt="" />
 
