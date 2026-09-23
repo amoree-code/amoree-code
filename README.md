@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB" width="100%" alt="Ameer Abdulkareem Jabbar Lami" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Ameer%20Abdulkareem%20Jabbar%20Lami&fontSize=36&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="Ameer Abdulkareem Jabbar Lami" />
 
 <a href="https://github.com/amoree-code">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Government+%26+enterprise+dashboards+at+scale;RTL-first+i18n+%E2%80%94+Arabic%2C+English%2C+Kurdish;Real-time+WebSocket+products;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS" alt="Typing SVG" />
